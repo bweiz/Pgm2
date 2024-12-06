@@ -1,0 +1,19 @@
+Lowest Sea Level Rise: -0.60470694 on Jul-15-1999
+On that same date, the Average Co2 concentration was 366.69
+On that same date, the Temperature Anomaly (F) was 0.38
+
+Highest Sea Level Rise: 9.364914 on Jan-15-2006
+On that same date, the Average Co2 concentration was 381.33
+On that same date, the Temperature Anomaly (F) was 0.56
+
+Lowest Temperature Anomaly: -0.018000000000000002 on Sep-15-1992
+On that same date, the Average Co2 concentration was 353.58
+
+Highest Temperature Anomaly: 2.664 on Sep-15-2023
+On that same date, the Average Co2 concentration was 417.1
+
+Lowest Sea Level Rise: 334.36 on Aug-15-1979
+On that same date, the Temperature Anomaly (F) was 0.17
+
+Highest Sea Level Rise: 9.364914 on May-15-2024
+On that same date, the Temperature Anomaly (F) was 1.16
